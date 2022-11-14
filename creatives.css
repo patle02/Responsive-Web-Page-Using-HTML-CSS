@@ -36,6 +36,11 @@ p {
     text-align: center;
 }
 
+.btn a:hover {
+    background-color: lightpink;
+    color: white;
+}
+
 .main_container {
     position: relative;
 }
@@ -64,6 +69,10 @@ p {
 
 .navbar_items ul li {
     margin: 0 10px;
+}
+
+.navbar_items ul li a:hover {
+    color: #ff5ea2;
 }
 
 .navbar_items ul li a {
