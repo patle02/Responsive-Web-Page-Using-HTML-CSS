@@ -141,6 +141,11 @@ p {
     margin-bottom: 25px;
 }
 
+.diff_services .diff_services_item:hover {
+    color: grey;
+    opacity: 0.5;
+}
+
 .diff_services .diff_services_item h3 {
     color: #fb2274;
     margin-bottom: 15px;
